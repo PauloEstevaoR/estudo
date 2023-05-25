@@ -1,0 +1,73 @@
+
+
+.container {
+    display: flex;
+    background-color: brown;
+    border-radius: 20px;
+    padding: 15px;
+    width: 100%;
+    height: 200px;
+    justify-content: space-around;
+    cursor: pointer;
+   
+}
+
+.conteudos{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+   
+}
+
+.livro1 {
+    background-image: url(capas/harry\ potter.webp);
+    border: 2px;
+    height: 600px;
+    width: 400px;
+}
+.livro2 {
+    background-image: url(capas/senhor\ dos\ aneis.jpg);
+    border: 2px;
+    height: 600px;
+    width: 400px;
+}
+.livro3 {
+    background-image: url(capas/narnia.jpg);
+    border: 2px;
+    height: 600px;
+    width: 400px;
+      }
+
+.livro4 {
+    background-image: url(capas/Percy\ Jackson.jpg);
+    border: 2px;
+    height: 600px;
+    width: 400px;
+   
+}
+.livro5 {
+    background-image: url(capas/game\ of\ Thrones.jpg);
+    border: 2px;
+    height: 600px;
+    width: 400px;
+}
+.livro6 {
+    background-image: url(capas/O\ hobbit.jpg);
+    border: 2px;
+    height: 600px;
+    width: 400px;
+    
+     }
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+
+
+
